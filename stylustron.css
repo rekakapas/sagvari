@@ -2,18 +2,18 @@ body {
     user-select: none;
     text-align: center;
     background-color: rgb(252, 228, 197);
-    color: rgb(45, 165, 189);
+    color: rgb(223, 23, 206);
     text-shadow: 1px 1px 3px rgb(23, 20, 20);
 }
 td.o {
     width: 15px;
     height: 15px;
-    background-color: rgb(121, 188, 188);
+    background-color: rgb(223, 17, 195);
     box-shadow: 1px 1px 4px inset black;
     border-radius: 2px;
     text-align: center;
     font-size: 10px;
-    color: rgb(248, 246, 201);
+    color: rgb(214, 24, 157);
 }
 td.p {
     box-shadow: 1px 1px 4px inset black;
@@ -58,11 +58,11 @@ div#psz {
     margin: 20px;
     padding: 10px;
     display: inline-block;
-    border: solid 1px green;
+    border: solid 1px rgb(219, 21, 209);
     width: 100px;
     height: 35px;
     border-radius: 10px;
     box-shadow: 1px 1px 4px inset black;
     background-color: rgb(201, 241, 241);
-    color: rgb(116, 116, 220);
+    color: rgb(202, 21, 157);
 }
